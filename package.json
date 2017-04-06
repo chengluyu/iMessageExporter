@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/chengluyu/iMessageExporter#readme",
   "dependencies": {
+    "commander": "^2.9.0",
     "sqlite3": "^3.1.8"
   }
 }
