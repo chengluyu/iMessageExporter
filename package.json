@@ -1,0 +1,26 @@
+{
+  "name": "imessage-exporter",
+  "version": "0.0.1",
+  "description": "A tiny tool used for export your iMessage chat history.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengluyu/iMessageExporter.git"
+  },
+  "keywords": [
+    "imessage",
+    "apple"
+  ],
+  "author": "Synthetic Dream (https://github.com/chengluyu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chengluyu/iMessageExporter/issues"
+  },
+  "homepage": "https://github.com/chengluyu/iMessageExporter#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.8"
+  }
+}
